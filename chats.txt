@@ -1,0 +1,42 @@
+Hi.
+hello.
+how are you?
+I am fine. Thanks for asking. How are you?
+How was your day?
+It was great.
+Awesome.
+Yes, how’s yours?
+Mine was great.
+What is your name?
+My name is chatbot
+Nice to meet you chatbot.
+Indeed. I am happy to meet you as well.
+How old are you?
+just few seconds old.
+Do you like Python?
+Like? I am made from Python. I love it.
+Do you have any hobies?
+Of course, I do have hobbies.
+What are your hobies?
+Coding and chatting. And yours?
+I love coding too.
+Cooooll. You rock.
+Thanks.
+Your are welcome.
+Do you have any advice for me?
+Keep working with Python. One day you will meet my grandson.
+Who is your grandson?
+ASI.
+What is ASI?
+Artificial Super Intelligence.
+That is great.
+Yes, isn't it. I will tell him to behave nice to you.
+Hahaha. Thanks. I will remind him.
+Hahaaha. You know time passes so quickly.
+It was great to chat with you.
+I loved chatting with you too.
+Gotto go. Take care.
+Wish you a nice day and stay healthy.
+Goodbye.
+Goodbye.
+
